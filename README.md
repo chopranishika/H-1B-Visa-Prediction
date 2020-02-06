@@ -15,4 +15,4 @@ There is a lot of uncertainity on H-1B apllications and with recent developments
 #### Data
 The original data set came from Kaggle. https://www.kaggle.com/jonamjar/h1b-data-set-2017/data\
 
-Since, the data was huge about 600000 rows we decided to take a subset based on year. We took the data of 2016 (about 150000 rows) and did our analysis on that. The same can be found here https://drive.google.com/file/d/1uh_sQR-DTVAjeiwGP10g-qGt8Th1iHMd/view?usp=sharing"
+Since, the data was huge about 600000 rows we decided to take a subset based on year. We took the data of 2016 (about 150000 rows) and did our analysis on that. 
